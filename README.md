@@ -37,13 +37,13 @@ Unlike CSV import tools, this plugin allows you to upload actual downloadable fi
 
 ## 🖼️ Bulk Upload Interface
 
-![WooCommerce Bulk Upload Plugin](assets/woocommerce-bulk-upload-plugin.png)
+![WooCommerce Bulk Upload Plugin](assets/screenshot-1.png)
 
 ---
 
 ## ⚡ Import Results
 
-![Downloadable Products Import](assets/downloadable-products-import.png)
+![Downloadable Products Import](assets/screenshot-2.png)
 
 ---
 
