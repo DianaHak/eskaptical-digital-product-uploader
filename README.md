@@ -49,7 +49,7 @@ Unlike CSV import tools, this plugin allows you to upload actual downloadable fi
 
 ## 🎬 Demo
 
-![WooCommerce Digital Product Uploader](assets/1.mp4)
+![WooCommerce Digital Product Uploader](assets/1.gif)
 
 ---
 
